@@ -1,6 +1,8 @@
 Project Description and Webpage Functionality
 Project Overview
 
+website URL https://ashersbrown.wixsite.com/forsyth-senior-servi
+
 The project titled Empowering Networks for Seniors: A Centralized Digital Resource Platform for Older Adults in Forsyth County aims to enhance access to essential community-based services for older adults in Winston-Salem and Forsyth County. The region offers a wide array of services—including meal assistance, transportation, healthcare referrals, housing support, employment programs, and social engagement opportunities—through various nonprofit organizations, government agencies, and community groups.
 
 Despite the availability of these resources, access remains a significant challenge due to the fragmented nature of information distribution. Currently, service details are spread across multiple websites, printed directories, PDF documents, and phone-based systems. This lack of centralization creates confusion and inefficiencies for older adults, caregivers, and even service providers attempting to coordinate care or make referrals.
